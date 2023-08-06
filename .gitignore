@@ -1,0 +1,10 @@
+slides/.project
+
+build/
+.gradle/
+
+
+docs/_site
+.sass-cache
+.jekyll-metadata
+
